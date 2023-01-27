@@ -1,0 +1,12 @@
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\bin\Debug\net6.0\FieryRestaurent.Entity.deps.json
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\bin\Debug\net6.0\FieryRestaurent.Entity.dll
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\bin\Debug\net6.0\FieryRestaurent.Entity.pdb
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\obj\Debug\net6.0\FieryRestaurent.Entity.csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\obj\Debug\net6.0\FieryRestaurent.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\obj\Debug\net6.0\FieryRestaurent.Entity.AssemblyInfoInputs.cache
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\obj\Debug\net6.0\FieryRestaurent.Entity.AssemblyInfo.cs
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\obj\Debug\net6.0\FieryRestaurent.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\obj\Debug\net6.0\FieryRestaurent.Entity.dll
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\obj\Debug\net6.0\refint\FieryRestaurent.Entity.dll
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\obj\Debug\net6.0\FieryRestaurent.Entity.pdb
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Entity\obj\Debug\net6.0\ref\FieryRestaurent.Entity.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FieryRestaurent_Service.props" />
+</Project>

@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieryRestaurent_Api", "FieryRestaurent_Service\FieryRestaurent_Api.csproj", "{56FA81D1-B113-45BA-A076-ADE453E6CA07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FieryRestaurentApiLayer", "FieryRestaurentApiLayer", "{0FF79423-5788-4E96-81FD-8DA8608297A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DomainLayer", "DomainLayer", "{6EA57CD1-31D7-4CD5-99FF-1B97A1CB91DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccessLayer", "DataAccessLayer", "{916CF928-2C0A-4702-8BB7-259C8D2B12EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exceptions", "Exceptions", "{04E4519F-E5A7-4D7F-B250-59CC1EF3E109}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieryRestaurent.Dal", "FieryRestaurentEntityLayer\FieryRestaurent.Dal.csproj", "{7E5831A7-258B-4719-8C5B-B6125F1E7620}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieryRestaurent.Entity", "FieryRestaurent.Entity\FieryRestaurent.Entity.csproj", "{2585023E-F3EF-40A6-8983-0DB2EA48619F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieryRestaurent.Exceptions", "FieryRestaurent.Exceptions\FieryRestaurent.Exceptions.csproj", "{DE470E50-E60C-4F00-A1DF-8809828C26A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTesting", "UnitTesting", "{A2CD3F20-3BE5-49F7-A7A9-EBD29057CB62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieryRestaurent.SupplierService.UnitTest", "FieryRestaurent.SupplierService.UnitTest\FieryRestaurent.SupplierService.UnitTest.csproj", "{DF830494-8614-4603-8871-3998050B98A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceLayer", "ServiceLayer", "{91F72F92-3C0A-45DC-BC9C-9B642E70CF76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieryRestaurent.ServiceLayer", "FieryRestaurent.ServiceLayer\FieryRestaurent.ServiceLayer.csproj", "{DF0257C4-4FEE-4673-9BA5-8966CB1775C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoggingService", "LoggingService", "{5F466872-861E-4D84-937B-A2B933A71616}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieryRestaurent.LoggingService", "FieryRestaurent.LoggingService\FieryRestaurent.LoggingService.csproj", "{ECABA257-7352-4A2A-8D8A-97FBB39353F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FA81D1-B113-45BA-A076-ADE453E6CA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FA81D1-B113-45BA-A076-ADE453E6CA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FA81D1-B113-45BA-A076-ADE453E6CA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FA81D1-B113-45BA-A076-ADE453E6CA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5831A7-258B-4719-8C5B-B6125F1E7620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5831A7-258B-4719-8C5B-B6125F1E7620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5831A7-258B-4719-8C5B-B6125F1E7620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5831A7-258B-4719-8C5B-B6125F1E7620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2585023E-F3EF-40A6-8983-0DB2EA48619F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2585023E-F3EF-40A6-8983-0DB2EA48619F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2585023E-F3EF-40A6-8983-0DB2EA48619F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2585023E-F3EF-40A6-8983-0DB2EA48619F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE470E50-E60C-4F00-A1DF-8809828C26A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE470E50-E60C-4F00-A1DF-8809828C26A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE470E50-E60C-4F00-A1DF-8809828C26A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE470E50-E60C-4F00-A1DF-8809828C26A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF830494-8614-4603-8871-3998050B98A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF830494-8614-4603-8871-3998050B98A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF830494-8614-4603-8871-3998050B98A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF830494-8614-4603-8871-3998050B98A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0257C4-4FEE-4673-9BA5-8966CB1775C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0257C4-4FEE-4673-9BA5-8966CB1775C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0257C4-4FEE-4673-9BA5-8966CB1775C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0257C4-4FEE-4673-9BA5-8966CB1775C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECABA257-7352-4A2A-8D8A-97FBB39353F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECABA257-7352-4A2A-8D8A-97FBB39353F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECABA257-7352-4A2A-8D8A-97FBB39353F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECABA257-7352-4A2A-8D8A-97FBB39353F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{56FA81D1-B113-45BA-A076-ADE453E6CA07} = {0FF79423-5788-4E96-81FD-8DA8608297A7}
+		{7E5831A7-258B-4719-8C5B-B6125F1E7620} = {916CF928-2C0A-4702-8BB7-259C8D2B12EE}
+		{2585023E-F3EF-40A6-8983-0DB2EA48619F} = {6EA57CD1-31D7-4CD5-99FF-1B97A1CB91DA}
+		{DE470E50-E60C-4F00-A1DF-8809828C26A3} = {04E4519F-E5A7-4D7F-B250-59CC1EF3E109}
+		{DF830494-8614-4603-8871-3998050B98A5} = {A2CD3F20-3BE5-49F7-A7A9-EBD29057CB62}
+		{DF0257C4-4FEE-4673-9BA5-8966CB1775C6} = {91F72F92-3C0A-45DC-BC9C-9B642E70CF76}
+		{ECABA257-7352-4A2A-8D8A-97FBB39353F0} = {5F466872-861E-4D84-937B-A2B933A71616}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6900ADF-AF9F-4974-8569-110762D4E4CE}
+	EndGlobalSection
+EndGlobal

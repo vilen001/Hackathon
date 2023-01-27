@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vSajsEHIzyHRoMWwKQQOilqGgIlTkcvSY1ze428zSbTY9xRBfdFlWoejUYshfvYBsZHIFXbd5WunXumDR6fiNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayan\\OneDrive\\Desktop\\Hackathon19-01-23\\hackathon\\FieryRestaurent.DtoModels\\FieryRestaurent.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\mayan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

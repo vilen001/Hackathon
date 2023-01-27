@@ -1,0 +1,15 @@
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\bin\Debug\net6.0\FieryRestaurent.Mapping.deps.json
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\bin\Debug\net6.0\FieryRestaurent.Mapping.dll
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\bin\Debug\net6.0\FieryRestaurent.Mapping.pdb
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\bin\Debug\net6.0\FieryRestaurent.Entity.dll
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\bin\Debug\net6.0\FieryRestaurent.Entity.pdb
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\obj\Debug\net6.0\FieryRestaurent.Mapping.csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\obj\Debug\net6.0\FieryRestaurent.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\obj\Debug\net6.0\FieryRestaurent.Mapping.AssemblyInfoInputs.cache
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\obj\Debug\net6.0\FieryRestaurent.Mapping.AssemblyInfo.cs
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\obj\Debug\net6.0\FieryRestaurent.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\obj\Debug\net6.0\FieryRestaurent.Mapping.csproj.CopyComplete
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\obj\Debug\net6.0\FieryRestaurent.Mapping.dll
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\obj\Debug\net6.0\refint\FieryRestaurent.Mapping.dll
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\obj\Debug\net6.0\FieryRestaurent.Mapping.pdb
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.DtoModels\obj\Debug\net6.0\ref\FieryRestaurent.Mapping.dll

@@ -1,0 +1,12 @@
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\bin\Debug\net6.0\FieryRestaurent.Exceptions.deps.json
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\bin\Debug\net6.0\FieryRestaurent.Exceptions.dll
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\bin\Debug\net6.0\FieryRestaurent.Exceptions.pdb
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\obj\Debug\net6.0\FieryRestaurent.Exceptions.csproj.AssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\obj\Debug\net6.0\FieryRestaurent.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\obj\Debug\net6.0\FieryRestaurent.Exceptions.AssemblyInfoInputs.cache
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\obj\Debug\net6.0\FieryRestaurent.Exceptions.AssemblyInfo.cs
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\obj\Debug\net6.0\FieryRestaurent.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\obj\Debug\net6.0\FieryRestaurent.Exceptions.dll
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\obj\Debug\net6.0\refint\FieryRestaurent.Exceptions.dll
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\obj\Debug\net6.0\FieryRestaurent.Exceptions.pdb
+C:\Users\mayan\OneDrive\Desktop\Hackathon19-01-23\hackathon\FieryRestaurent.Exceptions\obj\Debug\net6.0\ref\FieryRestaurent.Exceptions.dll
